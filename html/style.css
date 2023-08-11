@@ -1,0 +1,7 @@
+.image-stylized { 
+  height: 150px;
+  width: 80;
+  border-radius:50%;
+  border: 5px;
+  border-color: solid blue
+}
